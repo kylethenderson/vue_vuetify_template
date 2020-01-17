@@ -10,6 +10,9 @@ const options = {
 		theme: {
 		themes: {
 			light: {
+				knightRed: '#b10021',
+				knightGold: '#fe9915',
+				knightGrey: '#222222',
 				primary: '#0069bd',
 				secondary: '#424242',
 				accent: '#82B1FF',
